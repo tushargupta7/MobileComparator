@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="seller_activity_toolbar">200dp</dimen>
+    <dimen name="activity_toolbar_margin">40dp</dimen>
+    <dimen name="model_dimen">95dp</dimen>
+    <dimen name="padding">40dp</dimen>
+</resources>

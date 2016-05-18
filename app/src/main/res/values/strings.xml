@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SmartPrix</string>
+    <string name="error_network_timeout">Please check network connection.</string>
+    <string name="server_response_error">Products not loaded</string>
+    <string name="search_title">Search result</string>
+    <string name="search_hint">Search</string>
+    <string name="model_name">Model Name</string>
+    <string name="best_price">Best Price</string>
+    <string name="store_number">Store Number</string>
+    <string name="no_data">No result to show.</string>
+</resources>
